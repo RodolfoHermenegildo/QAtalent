@@ -1,7 +1,6 @@
 # Biblioteca 
 from datetime import datetime
 import gerador_dados_aleatórios as gda
-import random
 
 # Dados a serem usados no arquivo:
 
