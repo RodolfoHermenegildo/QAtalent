@@ -66,3 +66,15 @@ def cel():
     return (f'119{num_1}{num_2}')
 
 #=================================================================================================================================
+
+# Gerar um endereço aleatório:
+
+def endereco():
+    end_1 = ['Rua', 'Avenida', 'Viela', 'Estrada', 'Rodovia']
+    e_1 = random.choice(end_1)
+    end_2 = ['Camilo', 'Edgar', 'Campos', 'Paulo', 'Pedro', 'Facoh', 'Fielster', 'São', 'Santo']
+    e_2 = random.choice(end_2)
+    end_3 = ['Souza', 'Silva', 'Manoel', 'Chelsea', 'Trump', 'Fetih', 'Valser', 'Nicholz']
+    e_3 = random.choice(end_3)
+
+    return (f'{e_1} {e_2} {e_3}')
