@@ -12,6 +12,8 @@ nome_mae = gda.nome()
 nome_pai = gda.nome()
 endereco = ""
 cel = gda.cel()
+email = ''
+endereco = ''
 
 
 
