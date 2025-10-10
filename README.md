@@ -1,2 +1,2 @@
 # QAtalent
-QAtalent é o repositório parceiro doAnalista de Teste.
+QAtalent o repositório parceiro do Analista de Teste.
