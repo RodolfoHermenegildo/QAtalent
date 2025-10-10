@@ -1,0 +1,10 @@
+{data_atual}   ,Emerson Senna Braga,19111990,97869330795,Solange Borges Souza,Fabiana Gonçalves Lelis,Estrada Edgar Nicholz,11989155619,emersonsennabraga@main.com,Estrada Edgar Nicholz
+(10102025:<15),Barbara Maia Costa,04011961,15836550000,Thiago Mendonça Souza,Joana Gonçalves Lopes,Viela Santo Valser,11961496027,barbaramaiacosta@main.com,Viela Santo Valser
+{data_atual}:<15,Raphaelli Gonçalves Júnior,20051993,39201055676,Raphaelli Christine Cechetto,Damião Catarina Souza,Rodovia São Silva,11960387291,raphaelligonçalvesjúnior@main.com,Rodovia São Silva
+{data_atual}   ,José Senna Lelis,25031979,34264615607,Solange Mendonça Liberatto,Kauan Borges Fausto,Rua Paulo Manoel,11956206853,josésennalelis@main.com,Rua Paulo Manoel
+{data_atual}   ,Odila Christine Cechetto,04121989,12604968134,Carlinhos Christine Filho,Fabiana Christine Lelis,Viela Facoh Chelsea,11976474781,odilachristinecechetto@main.com,Viela Facoh Chelsea
+10102025:<15,Kauan Gonçalves Camarotto,31071987,68752172791,Damião Maia Lopes,Davi Senna Costa,Estrada Facoh Manoel,11976536617,kauangonçalvescamarotto@main.com,Estrada Facoh Manoel
+10102025:<15,Davi Santiago Neto,25101961,53668357390,Marina Christine Filho,Sthephanie Santiago Liberatto,Rua Paulo Silva,11969059407,davisantiagoneto@main.com,Rua Paulo Silva
+10102025:<15Guilherme Gonçalves Cechetto1004197747691997167Nicolas Christine SouzaCarlinhos Albuquerque SouzaViela Camilo Souza11976093418guilhermegonçalvescechetto@main.comViela Camilo Souza
+10102025       Odila Benício Neto2210197511723190578Silvana Benício LelisGuilherme Christine JúniorAvenida Pedro Fetih11996493726odilabenícioneto@main.comAvenida Pedro Fetih
+10102025       Silvana Borges Hermengildo1006196603109258943Davi Mendonça HermengildoSandra Christine FaustoRua Campos Manoel11987765823silvanaborgeshermengildo@main.comRua Campos Manoel
